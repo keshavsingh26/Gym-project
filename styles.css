@@ -1,0 +1,145 @@
+body{
+    margin:0;
+    padding: 0;
+    background: url(abs-1850926_1920.jpg);
+    color:white;
+    font-family: 'Baloo Bhai 2', cursive;
+}
+.left{
+    /* border:2px solid yellow; */
+    margin:-10px;
+    padding: 0px 85px;
+    width:800px;
+    display: inline-block;
+    position: absolute;
+    left:75px;
+}
+.right1{
+    /* border:2px solid yellow; */
+    margin:5px;
+    padding: 9px 15px;
+    width:75px;
+    display: inline-block;
+    position: absolute;
+    left:0px;
+    right: 30px;
+    height: 175px;
+    
+}
+
+.second-right{
+    /* border:2px solid yellow; */
+    margin:5px;
+    padding: 0px 15px;
+    width:250px;
+    display: inline-block;
+    position: absolute;
+    right:0px;
+    height: 100px;
+    top: 5px;
+}
+p{
+   margin: 0 5px;
+}
+
+.navbar{
+    display: inline-block;
+    
+}
+.navbar ul{
+      padding-left: 0;
+}
+.navbar li{
+         display: inline-block;
+         padding: 10px 21px;
+         margin:10px 10px;
+         padding-left: 0px;
+    margin-left: 0px;
+}
+.navbar li a{
+     color: white;
+     text-decoration: none;
+     font-size:23px;
+}
+.navbar li a:hover{
+    color: red;
+}
+.logoimage{
+    width: 75px;
+    margin: -2px 80px;
+}
+.yellow{
+    color:white;
+    margin: 0px 76px;
+    
+    
+}
+.division{
+    display: inline-block;
+    
+    padding:0px 0px ;
+    margin-left:-91px;
+    margin-top:-11px;
+    
+}
+.btn{
+    margin-top:8px;
+    padding-left:6px;
+    border:1px white solid;
+    border-radius: 38px;
+    color: white;
+    background-color:#570822;
+    cursor: pointer;
+}
+.btn:hover{
+    color:blue;
+}
+.division1{
+    margin: 2px 79px;
+    padding: 10px 10px;
+    width: 150px;
+}
+.bottom-container{
+    width:500px;
+    height: 375px;
+    /* border:2px solid white; */
+    /* border-radius: 8px; */
+    color:white;
+    position: absolute;
+    top:131px;
+    left:47px;
+    
+
+}
+.bottom-container h1{
+    text-align: center;
+}
+    .input-form{
+        display: block;
+        margin:9px 3px;
+        padding: 5px 55px;
+        border-radius: 35px;
+    }
+    .form{
+        margin: -38px 43px;
+    padding: 20px 16px;
+    }
+   
+   
+   .button{
+       margin :18px 65px;
+       
+       padding-right: 180px;
+       padding left:10px ;
+       padding-top: 10px;
+       padding-bottom: 10px;
+       border-radius: 35px;
+       background-color:black;
+       color:white;
+      
+           
+       }
+      
+       
+   
+
